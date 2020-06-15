@@ -16,9 +16,9 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Data2.txt is the output of the final step.
 
 
-# 1.First, download and unzip the data file into your R working directory.
-# 2.Second, download the R source code into your R working directory.
-# 3.Finally, execute R source code to generate tidy data file.
+ 1.First, download and unzip the data file into your R working directory.
+ 2.Second, download the R source code into your R working directory.
+ 3.Finally, execute R source code to generate tidy data file.
 
-# The data for this project can be downloaded here:
+ The data for this project can be downloaded here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip

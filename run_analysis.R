@@ -1,7 +1,3 @@
-url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-destfile <- "./data"
-download.file(url, destfile)
-unzip("data")
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 features <- read.table("./UCI HAR Dataset/features.txt")
 Xtrain <- read.table("./UCI HAR Dataset/train/X_train.txt")
